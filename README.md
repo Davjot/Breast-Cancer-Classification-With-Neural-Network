@@ -2,7 +2,11 @@
 
 ![breast_cancer_classification_dataset](https://user-images.githubusercontent.com/71970250/188055612-8a2465bd-cd21-4d00-9737-b68b41e1493f.jpg)
 
-The dataset is directly import from sklearn module.
+--> <b> <i> DATASET : </i> <b>
+
+The dataset is directly import from <b> <i> sklearn </i> </b> module.
+
+--> <b> <i> METHODOLOGY : </i> <b>
 
 0 and 1 are used to predict whether a person have a brain tumor or not in the following way:
 
@@ -10,9 +14,9 @@ The dataset is directly import from sklearn module.
 
 ● 1 --> The brain tumor is Malignant 
 
-The libraries used here are Tensorflow and Keras.
+The libraries used here are  <b> <i> Tensorflow </i> </b> and <b> <i> Keras </i> </b>.
 
-The prgram then divides the dataset into training and testing samples in 80:20 ratio randomly using train_test_split() function available in sklearn module.
+The prgram then divides the dataset into training and testing samples in <b> <i> 80:20 </i> </b> ratio randomly using <b> <i> train_test_split() </i> </b> function available in <b> <i> sklearn </i> </b> module.
 
 Accuracy score is then calculated by comparing with the correct results of the training dataset.
 
