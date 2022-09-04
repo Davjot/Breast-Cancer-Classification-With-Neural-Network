@@ -2,11 +2,11 @@
 
 ![breast_cancer_classification_dataset](https://user-images.githubusercontent.com/71970250/188055612-8a2465bd-cd21-4d00-9737-b68b41e1493f.jpg)
 
---> <b> <i> DATASET : </i> <b>
+--> <b> <i> DATASET : </i> </b>
 
 The dataset is directly import from <b> <i> sklearn </i> </b> module.
 
---> <b> <i> METHODOLOGY : </i> <b>
+--> <b> <i> METHODOLOGY : </i> </b>
 
 0 and 1 are used to predict whether a person have a brain tumor or not in the following way:
 
@@ -30,7 +30,7 @@ So to predict whether the brain tumor is benign and malignant , we use <b> <i> n
 
 You can also predict the data by entering your data according to the dataset.
   
---> <b> <i> INPUT & OUTPUT : </i> <b>
+--> <b> <i> INPUT & OUTPUT : </i> </b>
   
 The input data taken in this case is :
 
