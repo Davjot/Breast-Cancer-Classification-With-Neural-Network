@@ -4,7 +4,7 @@
 
 --> <b> <i> DATASET : </i> </b>
 
-The dataset is directly import from <b> <i> sklearn </i> </b> module.
+The dataset is directly imported from <b> <i> sklearn </i> </b> module.
 
 --> <b> <i> METHODOLOGY : </i> </b>
 
