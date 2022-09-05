@@ -20,7 +20,7 @@ The prgram then divides the dataset into training and testing samples in <b> <i>
 
 Accuracy score is then calculated by comparing with the correct results of the training dataset.
 
-Model predict function used here provides ous the two values in the output. 
+<b> <i> Model predict() </i> </b> function used here provides ous the two values in the output. 
 
 ● The first value provides us with the probability that the brain tumor is Malignant;
 
